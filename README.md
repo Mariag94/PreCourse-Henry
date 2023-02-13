@@ -1,2 +1,3 @@
 # PreCourse-Henry
-Este es un repositorio de prueba del módulo del PreCourse 
+Este es una prueba para crear un repositorio desde git y clonarlo a la computadora
+m
